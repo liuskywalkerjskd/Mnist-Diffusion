@@ -119,7 +119,11 @@ If you want to generate a summary image containing all digits 0-9:
 
 ## 📊 Result Preview
 
-![1766044209241](image/README/1766044209241.png)
+![picture](./combined_2x5_grid.png)
+
+
+https://github.com/user-attachments/assets/9376a266-1c87-4334-b75f-8b56de96aa37
+
 
 ## 📝 Citation & References
 
