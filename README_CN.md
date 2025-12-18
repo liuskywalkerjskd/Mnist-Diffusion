@@ -110,7 +110,7 @@ python inference_ddpm.py --video
    ```
 2. 运行拼接脚本：
 
-   ```
+   ```bash
    python stitch_images.py
    ```
 3. 查看生成的 combined_2x5_grid.png。
